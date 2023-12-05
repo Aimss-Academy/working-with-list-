@@ -1,0 +1,15 @@
+.list-container{
+    list-style-type:none;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    margin: 25px;
+}
+
+.user-image{
+    border-radius: 75px;
+}
+
+.details-container{
+    padding-left: 20px;
+}
